@@ -1,0 +1,26 @@
+{
+name	Klesk
+model	klesk
+skill	200
+}
+
+{
+name	Visor
+model	visor
+skill	300
+}
+
+{
+name	Doom
+model	doom
+skill	400
+}
+
+{
+name	Slash
+model	slash
+skill	250
+}
+
+
+

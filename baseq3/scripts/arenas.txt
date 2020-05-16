@@ -1,0 +1,80 @@
+{
+name	IHV_Test
+skill	0
+map		"ihv_test1"
+}
+
+{
+name	Test_Fog2
+skill	0
+map		"test_fog2"
+}
+
+{
+name	Portal
+skill	0
+map		"km_portal"
+}
+
+{
+name	Tim_DM1
+skill	100
+bots	"Visor"
+map		"tim_dm1"
+}
+
+{
+name	Drake_DM1
+skill	100
+bots	"Doom"
+map		"drake_dm1"
+}
+
+{
+name	HZ_DM1
+skill	100
+bots	"Sarge"
+map		"hz_dm1"
+}
+
+{
+name	Powerup_Test
+skill	100
+bots	"Doom"
+map		"powerups"
+}
+
+{
+name	Tim_DM1_NoFog
+skill	100
+bots	"Klesk"
+map		"tim_dm1_nofog"
+}
+
+{
+name	Tim_DM1_2x_NoFog
+skill	100
+bots	"Visor Doom Klesk"
+map		"tim_dm1_2x_nofog"
+}
+
+{
+name	Portal_DM
+skill	100
+bots	"Doom Klesk Slash"
+map		"km_portal_dm"
+}
+
+{
+name	Drake_DM1_2X
+skill	100
+bots	"Visor Doom Klesk"
+map		"drake_dm1_2x"
+}
+
+{
+name	Invis_DM1
+skill	100
+bots	"Slash"
+map		"invis_dm1"
+}
